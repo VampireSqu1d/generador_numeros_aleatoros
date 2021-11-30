@@ -1,0 +1,3 @@
+En este JAR está un clase que se llama RandomNumbergenerator que genera un arreglo typo long
+con numeros aleatorios. El algoritmo de numeros aleatorios está basado en "Middle Square Method"
+por John von Neumann.
